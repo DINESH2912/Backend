@@ -1,7 +1,4 @@
-﻿bcrypt
-Flask
-Flask-Limiter
-validators
-werkzeug
-gunicorn
-utils
+Flask==2.0.2
+sqlite3
+
+
